@@ -7,7 +7,7 @@
     "build": "gulp build",
     "dev": "nodemon build/app.js"
   },
-  "author": "Victor Miguez",
+  "author": "Victor Perin<me@victorperin.ninja>",
   "apidoc": {
     "name": "Livro - Construindo API com nodejs"
   },
