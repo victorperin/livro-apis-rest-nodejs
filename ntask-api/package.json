@@ -4,6 +4,7 @@
   "description": "Livro - Construindo API com nodejs",
   "main": "index.js",
   "scripts": {
+    "start": "babel-node index.js",
     "build": "gulp build",
     "dev": "nodemon build/app.js"
   },
