@@ -10,7 +10,7 @@ Status                    | Capítulo
 ------------------------- | -------------
 <ul><li>- [x] </li></ul>  | Introdução ao Node.js
 <ul><li>- [x] </li></ul>  | Setup do ambiente
-<ul><li>- [ ] </li></ul>  | Gerenciando módulos com NPM
+<ul><li>- [x] </li></ul>  | Gerenciando módulos com NPM
 <ul><li>- [ ] </li></ul>  | Construindo a API
 <ul><li>- [ ] </li></ul>  | Trabalhando com banco de dados relacional
 <ul><li>- [ ] </li></ul>  | Implementando CRUD dos recursos da API
