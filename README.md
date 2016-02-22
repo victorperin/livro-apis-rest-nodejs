@@ -8,8 +8,8 @@ porque ele é bródi...<br>
 #### Objetivos:
 Status                    | Capítulo
 ------------------------- | -------------
-<ul><li>- [ ] </li></ul>  | Introdução ao Node.js
-<ul><li>- [ ] </li></ul>  | Setup do ambiente
+<ul><li>- [x] </li></ul>  | Introdução ao Node.js
+<ul><li>- [x] </li></ul>  | Setup do ambiente
 <ul><li>- [ ] </li></ul>  | Gerenciando módulos com NPM
 <ul><li>- [ ] </li></ul>  | Construindo a API
 <ul><li>- [ ] </li></ul>  | Trabalhando com banco de dados relacional
