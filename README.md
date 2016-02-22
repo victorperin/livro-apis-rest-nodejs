@@ -2,7 +2,7 @@
 Pretendo com esse repositório colocar os exercícios desenvolvidos e progresso de leitura do livro [Construindo APIs REST com Node.js](https://www.casadocodigo.com.br/products/livro-apis-nodejs).
 
 ## Forked from [victormiguez/livro-apis-rest-nodejs](https://github.com/victormiguez/livro-apis-rest-nodejs)
-porque ele é bródi...<br>
+porque ele é bródi... :heart:<br>
 (e porque ta muito melhor organizado do que eu conseguiria deixar. TEM ATÉ UM GULPFILE!)
 
 #### Objetivos:
