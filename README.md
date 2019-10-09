@@ -1,4 +1,7 @@
 # Construindo APIs REST com Node.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/victorperin/livro-apis-rest-nodejs.svg)](https://greenkeeper.io/)
+
 Pretendo com esse repositório colocar os exercícios desenvolvidos e progresso de leitura do livro [Construindo APIs REST com Node.js](https://www.casadocodigo.com.br/products/livro-apis-nodejs).
 
 ## Forked from [victormiguez/livro-apis-rest-nodejs](https://github.com/victormiguez/livro-apis-rest-nodejs)
