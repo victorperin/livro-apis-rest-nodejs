@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "ntask-api/package.json"
+      ]
+    }
+  }
+}
